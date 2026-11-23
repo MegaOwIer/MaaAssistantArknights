@@ -355,10 +355,8 @@
     <system:String x:Key="Achievement.WarehouseMiser.Description">一个都不许用！</system:String>
     <system:String x:Key="Achievement.WarehouseMiser.Title">仓库守财奴</system:String>
     <system:String x:Key="Announcement.CheckAndDownload">查看公告</system:String>
+    <system:String x:Key="Announcement.Close">关闭</system:String>
     <system:String x:Key="Announcement.DoNotRemindAgain">下次公告更新前不再显示</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm">没看完点什么确认</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm2">说的就是你，还点</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm3">还点</system:String>
     <system:String x:Key="Announcement.Title">公告</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Failed">AttachWindow 绑定窗口失败，请检查截图/输入方式配置</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Found">找到窗口 "{0}"</system:String>

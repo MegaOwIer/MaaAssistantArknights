@@ -354,10 +354,8 @@
     <system:String x:Key="Achievement.WarehouseMiser.Description">一個都不許用！</system:String>
     <system:String x:Key="Achievement.WarehouseMiser.Title">倉庫守財奴</system:String>
     <system:String x:Key="Announcement.CheckAndDownload">查看公告</system:String>
+    <system:String x:Key="Announcement.Close">關閉</system:String>
     <system:String x:Key="Announcement.DoNotRemindAgain">下次公告更新前不再顯示</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm">沒看完點什麼確認？</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm2">就是在說你，還點！</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm3">還點</system:String>
     <system:String x:Key="Announcement.Title">公告</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Failed">AttachWindow 綁定視窗失敗，請檢查截圖/輸入方式設定</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Found">找到視窗 "{0}"</system:String>

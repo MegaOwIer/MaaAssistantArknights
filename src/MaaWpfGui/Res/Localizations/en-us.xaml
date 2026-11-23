@@ -354,10 +354,8 @@
     <system:String x:Key="Achievement.WarehouseMiser.Description">Not a single one shall be used!</system:String>
     <system:String x:Key="Achievement.WarehouseMiser.Title">Warehouse Miser</system:String>
     <system:String x:Key="Announcement.CheckAndDownload">View Announcement</system:String>
+    <system:String x:Key="Announcement.Close">Close</system:String>
     <system:String x:Key="Announcement.DoNotRemindAgain">Do not show this announcement again</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm">You haven't finished reading. Please confirm after you finish.</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm2">Yes, you — still clicking</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm3">Still clicking</system:String>
     <system:String x:Key="Announcement.Title">Announcement</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Failed">AttachWindow failed, please check screencap/input method settings</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Found">Found window "{0}"</system:String>

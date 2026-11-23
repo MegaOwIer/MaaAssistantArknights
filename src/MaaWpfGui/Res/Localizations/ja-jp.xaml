@@ -354,10 +354,8 @@
     <system:String x:Key="Achievement.WarehouseMiser.Description">一つも使わせない！</system:String>
     <system:String x:Key="Achievement.WarehouseMiser.Title">倉庫の守銭奴</system:String>
     <system:String x:Key="Announcement.CheckAndDownload">アナウンスを見ます</system:String>
+    <system:String x:Key="Announcement.Close">閉じる</system:String>
     <system:String x:Key="Announcement.DoNotRemindAgain">次回のお知らせ更新まで表示しない</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm">まだ読んでいません。読み終わってから確認してください。</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm2">そう、あなたですね、まだ押す</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm3">まだ押す</system:String>
     <system:String x:Key="Announcement.Title">アナウンス</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Failed">AttachWindow の接続に失敗しました。スクリーンキャプチャ/入力方法の設定を確認してください</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Found">ウィンドウ "{0}" が見つかりました</system:String>

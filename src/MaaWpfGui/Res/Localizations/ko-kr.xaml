@@ -354,10 +354,8 @@
     <system:String x:Key="Achievement.WarehouseMiser.Description">하나도 쓰지 말아요!</system:String>
     <system:String x:Key="Achievement.WarehouseMiser.Title">창고 수전노</system:String>
     <system:String x:Key="Announcement.CheckAndDownload">공지사항 확인</system:String>
+    <system:String x:Key="Announcement.Close">닫기</system:String>
     <system:String x:Key="Announcement.DoNotRemindAgain">다음 공지사항 업데이트 전까지 표시하지 않기</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm">아직 다 읽지 않았습니다. 읽은 후 확인을 눌러주세요.</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm2">그래 너, 계속 누르네</system:String>
-    <system:String x:Key="Announcement.NotFinishedConfirm3">계속 누르네</system:String>
     <system:String x:Key="Announcement.Title">공지사항</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Failed">AttachWindow 연결에 실패했습니다. 스크린샷/입력 방법 설정을 확인하세요</system:String>
     <system:String x:Key="Asst.Connection.AttachWindow.Found">창 "{0}"을(를) 찾았습니다</system:String>
